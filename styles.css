@@ -161,7 +161,7 @@ hr {
   justify-content: center;
   padding-bottom: 50px;
   margin-bottom: 20px;
-  color: rgb(31, 4, 4);
+  color: rgb(12, 1, 1);
   background-image: url('./img/postre_final.jpg') !important;
   background-size: cover;
 }
@@ -192,7 +192,7 @@ hr {
 
 /* Links */
 .footer-links {
-  background: #5192f3;;
+  background: #606061;;
   color: #616161;
   font-size: 18px;
   padding: 35px 0;
